@@ -1,6 +1,8 @@
 # FotonTech Challenge
 
 This is a solution to the [FotonTech Challenge](https://github.com/FotonTech/join).
+If you want to see the solution using GraphQL please check [here](https://github.com/nporta/fotton-challenge-graphql).
+
 
 How to run
 -------------
